@@ -1,7 +1,3 @@
-Here is your **copy-paste ready GitHub README.md** (clean, professional, recruiter-friendly) 👇
-
----
-
 # 🎆 Diwali Sales EDA - Python Project
 
 ## 📌 Project Overview
@@ -104,11 +100,3 @@ The dataset contains transactional sales data recorded during the Diwali festiva
 
 **Laxmi Singh**
 Aspiring Data Analyst
-
----
-
-If you want, I can also give you:
-
-* ⭐ A professional project banner idea
-* ⭐ GitHub badges (Python, Pandas, etc.)
-* ⭐ A LinkedIn post caption to showcase this project 🚀
